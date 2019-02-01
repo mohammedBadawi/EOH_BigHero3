@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "608772348130",
+    "firebase_url": "https://eohhakathon.firebaseio.com",
+    "project_id": "eohhakathon",
+    "storage_bucket": "eohhakathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608772348130:android:25b6535f02eb3c98",
+        "android_client_info": {
+          "package_name": "com.example.root.eoh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608772348130-3ft5ol90ir7odunkns996s4dvmi54dqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.eoh",
+            "certificate_hash": "ea7f7d36797a5a13e02d9d5b87f2c1786d2462bc"
+          }
+        },
+        {
+          "client_id": "608772348130-emb6niuncthsqu1lsj477g2rsodg7sr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sgg4wzu7z7fqX1FDXJQ7IgndKb62wOs"
+        },
+        {
+          "current_key": "AIzaSyC5sgg4wzu7z7fqX1FDXJQ7IgndKb62wOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608772348130-emb6niuncthsqu1lsj477g2rsodg7sr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
